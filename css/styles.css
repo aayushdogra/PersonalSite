@@ -93,6 +93,10 @@ a:hover {
   text-align: left;
 }
 
+.profile-image {
+  width: 15%;
+}
+
 .codeImage {
   width: 25%;
   float: left;
